@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            ">[changed1](https://asd)><form><math><mtext><option><GAFE><option></option><mglyph><svg><mtext><style><a title="</style><img src='#' onerror='alert(1)'>">
+            ">[changed1](https://asd)><form><math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><mtext><textarea><desc id="</textarea><math><mtext><!--"><textarea id="--><iframe srcdoc="<script><script>alert(1)</script>">
             
           format: int64
           in: path
