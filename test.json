@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "https://raw.githubusercontent.com/Az3z3l/swaggerXSSTest/main/test.yaml",
-            "name": "Foo Boo"
+            "name": "Foo Boo<b>asD</b>"
         }
     ]
 }
