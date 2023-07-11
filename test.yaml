@@ -28,8 +28,8 @@ paths:
     delete:
       parameters:
         - description: |
-            ">[asdasd](https://google.com)<form><math><mtext><table><mglyph><style><!--</style><img title="--&gt;&lt;img src=1 onerror=alert(1)&gt;"></form>
-
+            ">[changed](javascript:alert())<math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><style><a title="</style><img src='#' onerror='alert(1)'>">
+            
           format: int64
           in: path
           name: id
